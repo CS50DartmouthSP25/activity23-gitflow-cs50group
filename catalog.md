@@ -6,7 +6,7 @@
 
 [Economics](economics.md) - Department chair: Triumph-KT 
 
-[Geography](geography.md) - Department chair: <github username>
+[Geography](geography.md) - Department chair: Triumph-KT 
 
 [History](history.md) - Department chair: <github username>
 
