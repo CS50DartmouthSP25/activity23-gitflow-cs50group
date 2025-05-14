@@ -8,7 +8,7 @@
 
 [Geography](geography.md) - Department chair: <github username>
 
-[History](history.md) - Department chair: <github username>
+[History](history.md) - Department chair: Manya <Manya1905>
 
 [Mathematics](math.md) - Department chair: <github arthUFO12> Arthur Ufongene
 
